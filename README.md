@@ -78,13 +78,6 @@ This repository contains a curated list of awesome Flutter packages to boost you
 - **[FL Chart](https://pub.dev/packages/fl_chart)**  
   Create beautiful and interactive charts in Flutter.
 
-## How to Contribute? 🤝
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Commit your changes.
-4. Submit a Pull Request.
-
 ## License 📜
 
 This project is licensed under the [MIT](LICENSE) License.
