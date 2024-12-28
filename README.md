@@ -1,4 +1,7 @@
-# Flutter Packages For Your Projects
+Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25"/> by [Dany](https://t.me/imDeVoL) 
+ 
+
+# Flutter Packages For Your Projects<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 
 This repository contains a curated list of awesome Flutter packages to boost your development productivity. 🚀
 
