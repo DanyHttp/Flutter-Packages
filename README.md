@@ -15,7 +15,7 @@ This repository contains a curated list of awesome Flutter packages to boost you
   Easy-to-use fancy bottom navigation bar for Flutter.
 
 ### 2. Tools 🛠️
-- **Google Navbar**  
+- **[Google Navbar](https://pub.dev/packages/google_nav_bar)**  
   A custom navigation bar inspired by Google design.
 
 ### 3. Media 🎵📹
